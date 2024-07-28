@@ -11,6 +11,8 @@ StepDefinition- Contains the step definitions for each step in the feature file
 Runner- Contains the runner code to execute the project
 Utils- Contains utility files that have common code for the project
 
+Note: Reports are present in the reports folder
+
 ## Below is the System Design
 ![image](https://github.com/user-attachments/assets/05b30690-8b96-4125-aadf-bec8ea76808b)
 
